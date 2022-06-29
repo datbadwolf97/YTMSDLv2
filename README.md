@@ -2,7 +2,7 @@
 Simple yet powerful, YouTube Music downloader.
 
 
-More advanced than the first version of YTMSDL that can be found [here] (https://github.com/datbadwolf97/ytmsdl-termux).<br>
+More advanced than the first version of YTMSDL that can be found [here](https://github.com/datbadwolf97/ytmsdl-termux).<br>
 **Change Logs**
 1. Switched from youtube-dl backend to yt-dlp.
 2. More intuitive CLI interface.
